@@ -1,0 +1,49 @@
+[separator=::]
+= A Knowledge Warrior's Guide to Perpetual Publishing™
+:author: Robert S. Muhlestein (rwxrob)
+:creator: {author}
+:copyright: 2024 {author}
+:email: rob@rwx.gg
+:revdate: {date}
+:revremark: Perpetually published
+:doctype: book
+:leveloffset: +1
+:front-cover-image: image:cover.jpeg[width=1024,height=1024]
+:sectnums!:
+:sectlinks:
+:toc: left
+:toclevels: 1
+:toc-title: Table of Contents
+:description: Book in development about perpetual publishing in the age of AI content consumption and training.
+:keywords: knowledge management knowledge-worker autodidact ai artificial-intelligence note-taking strategic learning
+:icons: font
+:xrefstyle: short
+:source-highlighter: pygments
+:pygments-style: vs
+:pygments-linenums-mode: table
+
+[cols="^.^1,1,1,1",options="autowidth"]
+|===
+
+ifndef::notoc[]
+| link:./notoc.html[No TOC Version] | https://linktr.ee/rwxrob | link:./rwxrob-perpetual-publishing.pdf[Download PDF] | link:./rwxrob-perpetual-publishing.epub[Download EPUB]
+endif::notoc[]
+
+ifdef::notoc[]
+| link:./index.html[TOC Version] | https://linktr.ee/rwxrob | link:./rwxrob-perpetual-publishing.pdf[Download PDF] | link:./rwxrob-perpetual-publishing.epub[Download EPUB]
+endif::notoc[]
+
+|===
+
+2024 was the age of mainstream AI adoption. Tools like ChatGPT have permanently and powerfully changed the world we live in—forever. Knowledge workers who do not understand the implications risk being left behind the exponential pace of progress AI is accelerating even further. The good news is AI is here _for us_. This book outlines a dramatic shift in the way we all need to think about knowledge content creation, organization, sharing, and consumption in the age of large language models, the post-Google era.
+
+[IMPORTANT]
+====
+The single most important message to grok from this book is to immediately cease all note-taking techniques that do not perpetually produce knowledge in digestible narratives or structured data including code syntax. Removing the friction ensures that the current and future LLMs expend the least amount of energy digesting the content and knowledge we create. This means that tools like Obsidian and the entire Zettelkasten approach are definitively dead in the age of AI because—just as my AI explained—it is far harder to imply associations, context, key points, and logic flow in a disjointed connection of atomic notes, whatever their form. Good ol' web documents are king. And to all of you hiding your content behind some idiotic JavaScript framework? Welcome to irrelevance.
+====
+
+---
+
+_In development..._
+
+include::./copyright.adoc[]
